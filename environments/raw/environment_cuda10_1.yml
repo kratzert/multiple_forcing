@@ -1,0 +1,26 @@
+name: pytorch
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - bokeh
+  - cudatoolkit=10.1
+  - h5py
+  - hdf5
+  - jupyter
+  - matplotlib
+  - netcdf4
+  - numba
+  - pandas
+  - pip
+  - python=3.7
+  - pytorch
+  - ruamel.yaml
+  - scipy
+  - torchvision
+  - tqdm
+  - xarray
+  - yapf
+  - pip:
+    - tensorboard
+

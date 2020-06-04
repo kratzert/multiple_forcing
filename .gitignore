@@ -1,0 +1,8 @@
+**/*.pyc
+**/*.h5
+**/*.p
+
+.vscode/*
+.idea/*
+runs/*
+.ipynb_checkpoints/*
